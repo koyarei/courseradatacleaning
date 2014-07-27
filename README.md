@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## README file for overallTidy data 
 
 #### Data generated from consolidating data sets downloaded fromh "Human Activity Recognition Using Smartphones Data Set", hyperlink: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -46,3 +47,9 @@ trainTotalAccZ: from total_acc_z_train.txt
 
 
 
+=======
+courseradatacleaning
+====================
+
+Coursera Data Science Certificate | Getting and Cleaning Data | Week 3 Project | Wearable Tracking
+>>>>>>> ffdbc34e42b4a70fbeb4f80a12e75ff8223d6669
